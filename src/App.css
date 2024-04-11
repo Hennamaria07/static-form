@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bg-img{
+background-image: url("https://wallpapercave.com/wp/kJhD74s.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
